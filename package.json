@@ -1,0 +1,17 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "Derping around with reading files",
+  "main": "file-reader.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "davetheflashguy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
